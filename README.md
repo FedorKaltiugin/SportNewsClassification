@@ -16,7 +16,7 @@ We implemented two approaches:
 
 > 🧪 Tested on Google Colab. Compatible with local environments too.
 
-1. Clone this repository:
+Clone this repository:
 ```bash
 git clone https://github.com/FedorKaltiugin/SportNewsClassification.git
 cd SportNewsClassification
